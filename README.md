@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @noeschmidt
+- 👀 I’m interested in web and applications dev
+- 🌱 I’m currently learning full stack at CREA school in Geneva
+- 💞️ I’m looking to collaborate on differents projects, everything that could help me improve !
+- 📫 How to reach me -> linkedIn : Noé Schmidt (noeschmidtgnv) -> mail : noe.schmd@gmail.com
