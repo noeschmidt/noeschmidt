@@ -1,23 +1,21 @@
 
 # Noé Schmidt 🇨🇭👋🏻
 
-Student in full stack developer at CREA in Geneva. Always looking for new opportunities !
+Building cool things and learning a lot :)
 
-
+No ego, let me know what you think!
 
 
 ## 🛠 Skills
-HTML5, CSS (Tailwind), Javascript ES6
+Next.js - PostgreSQL - Tailwind - Shadcn - Jest - Python - PHP - 
 
-☄️ Improving in: VueJS, Python
 
-🔥 Wanting to learn: Svelte, React, NodeJS
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://noe-schmidt.ch/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://noe-schmidt.com/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noeschmidtgnv/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noeschmidt21/)
 
 
 
