@@ -7,7 +7,7 @@ No ego, let me know what you think!
 
 
 ## 🛠 Skills
-Next.js - PostgreSQL - Tailwind - Shadcn - Jest - Python - PHP - 
+Next.js - Typescript - Supabase - PostgreSQL - MySQL - Tailwind - Shadcn - Node - PHP - Laravel - Python - Zustand - Vue - Nuxt 
 
 
 
